@@ -1,0 +1,14 @@
+data
+CONTRIBUTING.md
+SECURITY.md
+license
+version
+phpunit
+plugins
+themes
+!themes/sky
+.phpunit.result.cache
+data_test
+phpunit.phar
+tests
+.github
